@@ -1,0 +1,8 @@
+{
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}",
+    "C_Cpp.default.includePath": [
+        "C:\\Program Files\\OpenSSL-Win64\\include",
+        "C:\\Program Files\\opencv\\build\\include"
+    ],
+    "cmake.sourceDirectory": "C:/Users/Chris/Desktop/lunabot/client"
+}

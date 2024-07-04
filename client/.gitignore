@@ -1,0 +1,9 @@
+venv/
+CMakeCache.txt
+CMakeFiles/
+build/
+ALL_BUILD*
+client.sln
+client.vcxproj*
+cmake_install.cmake
+ZERO_CHECK*

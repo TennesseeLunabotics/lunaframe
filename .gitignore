@@ -1,0 +1,7 @@
+.idea/
+client.exe
+client/client.exe
+client/build
+client/compile_commands.json
+client/cmake-build-debug
+build/

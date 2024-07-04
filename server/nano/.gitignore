@@ -1,0 +1,9 @@
+obj/*
+bin/*
+!obj/.gitkeep
+!bin/.gitkeep
+CMakeFiles
+cmake_install.cmake
+CMakeCache.txt
+compile_commands.json
+Makefile

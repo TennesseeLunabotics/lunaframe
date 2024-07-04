@@ -1,0 +1,10 @@
+esp/.pio
+esp/.vscode
+esp/.vscode/.browse.c_cpp.db*
+esp/.vscode/c_cpp_properties.json
+esp/.vscode/launch.json
+esp/.vscode/ipch
+nano/CMakeCache.txt
+nano/CMakeFiles
+nano/cmake_install.cmake
+nano/compile_commands.json
